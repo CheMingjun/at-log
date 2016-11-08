@@ -1,0 +1,16 @@
+{
+    "name": "at-log",
+    "readme": "README.md",
+    "scripts": {},
+    "version": "1.0.0",
+    "description": "README.md",
+    "devDependencies": {},
+    "directories": {},
+    "main": "./index",
+    "maintainers": [
+        {
+            "email": "chemingjun@126.com",
+            "name": "chemingjun"
+        }
+    ],"repository":"http://registry.npmjs.org"
+}
